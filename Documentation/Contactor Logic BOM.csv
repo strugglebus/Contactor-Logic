@@ -1,9 +1,12 @@
-Qty,Description,Manufacturer,Mfg part,Vendor,Vendor part,Designator
-4,Dura-Clik receptacle (plug),Molex,502351-0200,NW,08R4872,"X2-CONN, X3-CONN, X4-CONN, X5-CONN"
-7,Diode,FAIRCHILD SEMICONDUCTOR,1N4004,NW,67R2154,"D1, D2, D3, D4, D5, D6, D7"
-1,MX-150L plug,Molex,19418-0018,DK,WM17409-ND,X1-CONN
-1,MX-150L terminal,Molex,19420-0002,DK,WM2978CT-ND,X1-TERM
-2,Dura-Clik terminal,Molex,50212-8100,NW,95C1851,"X2-TERM, X3-TERM, X4-TERM, X5-TERM"
-4,Molex Dura-Clik Header,Molex,502352-0200,DK,WM7169CT-ND,"X2, X3, X4, X5"
-1,MX-150L header,Molex,19427-0032,DK,WM17505-ND,X1
-1,RELAY GEN PURPOSE DPDT 2A 12V,TE Connectivity,PB1057CT-ND,DK,V23079D1003B301,K1
+Qty,Description,Category,Manufacturer,Mfg Part,Vendor,Vendor Part,Unit Cost,Designator
+6,Axial 400V 1A diode,Diode,Fairchild,1N4004,DigiKey,1N4004FSCT-ND,0.18,"D3M, D2, D4L, D1OR,D-PRE-OR,D6"
+2,750 Ohm 20W resistor,Resistor,Multicomp,MCPRW020JW751B00,Newark,16R2128,0.157,"R1,R2"
+2,"HV Relay 450V, 20A",Relay,TE Connectivity,V23700-C0001-A408,Mouser,655-V23700-C0001A408,73.76,"K1,K2"
+2,2Pos DuraClik,Connector,Molex,502352-0200,DigiKey,WM7169CT-ND,1.32,"X-512,X-513"
+1,4pos Microfit,Connector,Molex,43045-0415,Newark,56H9469,2.27,X-333
+1,Axicom Relay,Relay,TE Connectivity,V23079D1003B301,DigiKey,PB1057CT-NDÿ,3.38,K3
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,Total,157.204,
